@@ -1,8 +1,10 @@
-# Hyper Theme - Visual Studio
+# HyperEX Theme - Visual Studio
 A black Visual Studio theme inspired by Hyper Terminal
 
 ![Theme Screenshot](/assets/sample.png)
 
+# Fixes
+* Fixed an issue with Publish page
 
 
 ## Theme
@@ -11,9 +13,8 @@ This theme is based on the default Visual Studio Dark theme with colours program
 
 ## Installation
 
-Download and install via the Visual Studio Marketplace
-
-https://marketplace.visualstudio.com/items?itemName=kurtmkurtm.hypertheme-vs
+~~Download and install via the Visual Studio Marketplace~~
+~~https://marketplace.visualstudio.com/items?itemName=kurtmkurtm.hypertheme-vs~~
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

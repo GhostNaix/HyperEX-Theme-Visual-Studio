@@ -49,10 +49,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <None Include="Hyper.vstheme">
+    <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
-    <None Include="source.extension.vsixmanifest">
+    <None Include="HyperEX.vstheme">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>

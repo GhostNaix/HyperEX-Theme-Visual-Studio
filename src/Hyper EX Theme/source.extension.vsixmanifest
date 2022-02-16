@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="HyperTheme_VisualStudio.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="kurtmkurtm" />
-        <DisplayName>HyperTheme</DisplayName>
-        <Description xml:space="preserve">Hyper inspired theme for visual studio</Description>
+        <Identity Id="HyperEXTheme_VisualStudio.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.1" Language="en-US" Publisher="kurtmkurtm &amp; Naix" />
+        <DisplayName>HyperEX_Theme</DisplayName>
+        <Description xml:space="preserve">Hyper inspired theme for visual studio fixed</Description>
         <License>LICENSE.txt</License>
         <PreviewImage>sample.png</PreviewImage>
-        <Preview>true</Preview>
     </Metadata>
-    <Installation>
+    <Installation AllUsers="true">
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
     </Installation>
     <Dependencies>
