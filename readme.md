@@ -24,5 +24,7 @@ Provided in [releases sections](https://github.com/GhostNaix/HyperEX-Theme-Visua
 ## Acknowledgments
 
 Base colours derived from [Hyper](https://github.com/zeit/hyper)
+
 Base dark theme and VSIX template created using [Visual Studio Color Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
+
 Base [Theme](https://github.com/kurtmkurtm/HyperTheme-VisualStudio)
