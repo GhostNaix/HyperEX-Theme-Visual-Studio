@@ -16,6 +16,8 @@ This theme is based on the default Visual Studio Dark theme with colours program
 ~~Download and install via the Visual Studio Marketplace~~
 ~~https://marketplace.visualstudio.com/items?itemName=kurtmkurtm.hypertheme-vs~~
 
+Provided in [releases sections](https://github.com/GhostNaix/HyperEX-Theme-Visual-Studio/releases/tag/v1.1)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
@@ -23,4 +25,4 @@ This theme is based on the default Visual Studio Dark theme with colours program
 
 Base colours derived from [Hyper](https://github.com/zeit/hyper)
 Base dark theme and VSIX template created using [Visual Studio Color Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
-
+Base [Theme](https://github.com/kurtmkurtm/HyperTheme-VisualStudio)
